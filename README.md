@@ -383,8 +383,18 @@ MIT License - See [LICENSE](LICENSE) file for details
 ## 👤 Author
 
 **Umema Sultan**
-- GitHub: [@umemasultan](https://github.com/umemasultan)
-- Project: [Phase_1_Todo_App](https://github.com/umemasultan/Phase_1_Todo_App)
+
+[![GitHub](https://img.shields.io/badge/GitHub-umemasultan-181717?style=for-the-badge&logo=github)](https://github.com/umemasultan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umema_Sultan-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umema-sultan-385797341/)
+[![TikTok](https://img.shields.io/badge/TikTok-@codedremer-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@codedremer?lang=en)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb25yCO7dmeTzYnD7p0M)
+
+**Connect with me:**
+- 💼 **LinkedIn**: [Umema Sultan](https://www.linkedin.com/in/umema-sultan-385797341/)
+- 🎥 **TikTok**: [@codedremer](https://www.tiktok.com/@codedremer?lang=en) - Coding tutorials & tips
+- 💬 **WhatsApp Channel**: [Join for updates](https://whatsapp.com/channel/0029Vb25yCO7dmeTzYnD7p0M)
+- 💻 **GitHub**: [@umemasultan](https://github.com/umemasultan)
+- 📂 **This Project**: [Phase_1_Todo_App](https://github.com/umemasultan/Phase_1_Todo_App)
 
 ---
 
@@ -423,8 +433,21 @@ Perfect for learning **software engineering fundamentals**!
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ using Python | Phase I Complete ✅
+Made with ❤️ by [Umema Sultan](https://github.com/umemasultan) | Phase I Complete ✅
+
+---
+
+### 🔗 Connect & Follow
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/umema-sultan-385797341/)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@codedremer?lang=en)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Join-25D366?style=flat-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb25yCO7dmeTzYnD7p0M)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/umemasultan)
+
+---
 
 [View Full Documentation](PHASE_I_COMPLETE.md) | [Report Bug](https://github.com/umemasultan/Phase_1_Todo_App/issues) | [Request Feature](https://github.com/umemasultan/Phase_1_Todo_App/issues)
+
+**Follow me for more coding projects and tutorials!** 🚀
 
 </div>
